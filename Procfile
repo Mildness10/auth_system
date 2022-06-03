@@ -1,0 +1,1 @@
+web: gunicorn auth_template.wsgi
